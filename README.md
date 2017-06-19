@@ -1,0 +1,1 @@
+Auto type a single character every second, toggle with F5
