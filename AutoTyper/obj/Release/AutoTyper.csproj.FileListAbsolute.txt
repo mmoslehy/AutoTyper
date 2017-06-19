@@ -1,1 +1,10 @@
 C:\Users\Moselhy\Documents\Visual Studio 2013\Projects\AutoTyper\AutoTyper\bin\Release\AutoTyper.exe.config
+C:\Users\Moselhy\Git\AutoTyper\AutoTyper\bin\Release\AutoTyper.exe.config
+C:\Users\Moselhy\Git\AutoTyper\AutoTyper\bin\Release\AutoTyper.exe
+C:\Users\Moselhy\Git\AutoTyper\AutoTyper\bin\Release\AutoTyper.pdb
+C:\Users\Moselhy\Git\AutoTyper\AutoTyper\obj\Release\AutoTyper.csprojResolveAssemblyReference.cache
+C:\Users\Moselhy\Git\AutoTyper\AutoTyper\obj\Release\AutoTyper.Form1.resources
+C:\Users\Moselhy\Git\AutoTyper\AutoTyper\obj\Release\AutoTyper.Properties.Resources.resources
+C:\Users\Moselhy\Git\AutoTyper\AutoTyper\obj\Release\AutoTyper.csproj.GenerateResource.Cache
+C:\Users\Moselhy\Git\AutoTyper\AutoTyper\obj\Release\AutoTyper.exe
+C:\Users\Moselhy\Git\AutoTyper\AutoTyper\obj\Release\AutoTyper.pdb
